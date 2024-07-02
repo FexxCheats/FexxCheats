@@ -36,4 +36,3 @@
 - **Close All Doors** (Default: None)
 - **Close Current Room Door** (Default: None)
 - **Complete All Tasks** (Default: None)
-
