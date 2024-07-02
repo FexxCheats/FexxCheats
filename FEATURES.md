@@ -1,6 +1,7 @@
 General
 
 *Keybinds Show/Hide Menu/Console (Default: DELETE, HOME)
+
 *Show Keybinds Allows you to see and modify keybinds (Default: ON)
 *Allow Keybinds while Chatting Allows you to use keybinds while chatting (Default: OFF)
 *Always Show Menu on Startup Shows the menu on startup (Default: ON)
